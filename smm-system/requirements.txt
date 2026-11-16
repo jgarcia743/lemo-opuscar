@@ -1,0 +1,6 @@
+crewai[tools]
+pydantic>=2.7,<3
+python-dotenv>=1.0
+requests>=2.32
+# Lock before deploying: pip freeze > requirements.lock
+# CrewAI's API drifts between minors; the shim in crew.py handles known variance.

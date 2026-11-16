@@ -1,0 +1,12 @@
+{
+  "business": "Example Coffee Roasters",
+  "offer": "Monthly specialty coffee subscription",
+  "market": "US, direct-to-consumer",
+  "audience_hint": "Home brewing hobbyists, 25-45",
+  "monthly_budget_usd": 1500,
+  "primary_kpi": "conversions",
+  "horizon_days": 90,
+  "constraints": "No health claims. No competitor mentions.",
+  "brand_voice": "Warm, nerdy about brewing, never pushy",
+  "metrics_csv": "data/last_7d.csv"
+}
